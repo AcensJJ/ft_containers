@@ -32,7 +32,7 @@ namespace ft
 			void pop();
 			void swap(const Stack<T, Container> &other);
 //--
-		// member obbjects
+		// member objects
 			container_type C;
 	};
 
