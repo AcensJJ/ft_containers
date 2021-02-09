@@ -42,7 +42,7 @@ namespace ft
 			bool operator<(Queue<T> &rhs);
 			bool operator<=(Queue<T> &rhs);
 
-		// member obbjects
+		// member objects
 		protected:
 			container_type C;
 	};
