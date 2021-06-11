@@ -4,10 +4,9 @@
 
 <img alt="Note" src="https://user-images.githubusercontent.com/45235527/96753610-698e7080-13d0-11eb-9461-d3351c9208d7.png" width="250" height="200" />
 
-<strong>Description</strong>
+### <strong>Description</strong>
 
 Les nombreux containers du C++ ont de divers intérêts. Afin de bien les comprendre, nous allons les ré-implémenter !
-
 
 # Partie obligatoire
 
@@ -35,7 +34,6 @@ Vous devez rendre les containers suivants et leur fonctions associés :
  ```
   
 Bien entendu, la STL est interdite. Vous pouvez par contre utiliser la STD.
-  
   
 # Commande
 
