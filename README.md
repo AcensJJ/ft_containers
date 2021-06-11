@@ -11,7 +11,7 @@ Les nombreux containers du C++ ont de divers intérêts. Afin de bien les compre
 
 # Partie obligatoire
 
-Mandatory part
+## Mandatory part
 
 - Implémentez les containers suivants, et rendez les fichiers <container>.hpp nécessaires.
 - Vous devez également rendre un main.cpp qui teste votre rendu en vue des évaluations.
@@ -35,3 +35,25 @@ Vous devez rendre les containers suivants et leur fonctions associés :
  ```
   
 Bien entendu, la STL est interdite. Vous pouvez par contre utiliser la STD.
+  
+  
+# Commande
+
+`make [option] <CONTAINER> [optional : INPUT=" <DEFINE> "]`
+  
+## makefile option : 
+  - clean
+  - fclean
+  - art
+  - re
+ 
+## CONTAINER :
+  - list
+  - vector
+  - queue
+  - stack
+  - map
+  
+## DEFINE:
+  - EXIT_ERR = 1
+  - SHOW = 1
